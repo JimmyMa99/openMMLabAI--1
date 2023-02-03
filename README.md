@@ -3,7 +3,7 @@ OpenMMLabAI实战营作业1
 
 [📘 Documentation](https://mmclassification.readthedocs.io/en/latest/)
 
-实验基于ImageNet1k作为pretrained进行finetuned
+实验基于ImageNet-1k作为pretrained进行finetuned
 [预训练权值下载]（https://github.com/open-mmlab/mmclassification）
 ## 基础实验
 使用mmclassification对5种花进行分类
@@ -44,3 +44,7 @@ flower 数据集包含 5 种类别的花卉图像：雏菊 daisy 588张，蒲公
 | ResNet50 |   82.6700   |   99.2400  | 
 
 所有的实验都提供了权值以供复现
+CIFAR-10 ResNet50权值
+链接：https://pan.baidu.com/s/1inUEZJaVAoPAZ0qI-ZlfTQ 
+提取码：qs06 
+
