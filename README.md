@@ -1,5 +1,5 @@
-# openMMLabAI--1
-openMMLabAI实战营作业1
+# OpenMMLabAI--1
+OpenMMLabAI实战营作业1
 
 [📘 Documentation](https://mmclassification.readthedocs.io/en/latest/)
 
