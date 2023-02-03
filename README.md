@@ -23,7 +23,7 @@ flower 数据集包含 5 种类别的花卉图像：雏菊 daisy 588张，蒲公
 - 国内网：https://pan.baidu.com/s/1RJmAoxCD_aNPyTRX6w97xQ 提取码: 9x5u
 
 
-### flowers
+### flower
 
 |        Model        |  Top-1 (%) | Top-5 (%) | 
 | :-----------------: |  :-------: | :-------: |
